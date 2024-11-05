@@ -25,3 +25,7 @@
 - npm install @next/font
 - npm install @fontsource/inter
 - npm install @fontsource/poppins
+![Screenshot (13)](https://github.com/user-attachments/assets/34b89e1f-ebf9-4943-8afb-81cf8f03708a)
+![Screenshot (14)](https://github.com/user-attachments/assets/fd0ca706-9671-40a1-8191-e6a3c6e3a0a7)
+![Screenshot (15)](https://github.com/user-attachments/assets/c16abb2e-7fed-4986-b7da-9c50486d044f)
+
