@@ -1,0 +1,96 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    /* height: 12vh; */
+    align-items: center;
+    margin: 35px;
+}
+.left-side{
+    display: flex;
+    flex-direction: row; 
+    position: absolute;
+    right: 0px;
+    column-gap: 10px;
+}
+.has-notification{
+    height: 55px;
+    width: 55px;
+    justify-content: center;
+    text-align: center;
+    column-gap: 15px;
+    padding: 12px;
+    border-radius: 48px;
+    background-color: #F7F8FA;
+    display: flex;
+    align-items: center;
+}
+
+.language-selector{
+    width: 116px;
+    height: 55px;
+    background-color: #F7F8FA;
+    padding: 12px;
+    border-radius: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    option {
+    }
+}
+
+.has-search{/* done */
+    width: 679px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+    border-radius: 48px;
+    padding: 12px 20px;
+    /* margin-left: 95px; */
+    color: #707070;
+    background-color:#F7F8FA ;
+}
+
+input{/* done */
+    color: #707070;
+    background-color:#F7F8FA ;
+    width: 657px;
+    /* margin: 1px;  */
+    border: none;
+    outline-width:0px;
+    /* margin-left: 10px; */
+}
+
+.user-name-img{/* done */
+    background-color:#F7F8FA ;
+    border-radius: 48px;
+    width: 162px;
+    height: 56px;
+    /* margin-left: 360px; */
+    padding: 12px 8px;
+    text-align: center;
+    column-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.user-name{/* done */
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    font-family: "Poppins";
+    text-align: left;
+    color: #101010;
+}
+
+.user-title-job{/* done */
+    font-size: 10px;
+    color: #707070;
+    font-family: "Poppins";
+}

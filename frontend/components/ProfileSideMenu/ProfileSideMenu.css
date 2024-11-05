@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    /* background-color: aquamarine; */
+}
+.vl {
+    margin-top: 40px;
+    margin-right: 10px;
+    border-right: 1px solid rgb(0, 0, 0);
+    opacity: 0.1;
+    height: 640px;
+    justify-content: center;
+}
+.profileItemWrapper {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1px;
+    /* margin: 2px; */
+}
+  
+.profileItem {
+    text-align: left;
+    /* background-color: red; */
+    font-size: 12px;
+    font-family: "Poppins";
+    color: #797979;
+    /* line-height:20px; */
+    padding:5px 10px;
+    margin: 5px 25px;
+}
+
+.profileItem:hover {
+    color: black;
+    background-color: white;
+    border-radius: 40px;
+}
+
+  
