@@ -1,7 +1,4 @@
 # Low firm
-## Prerequisites
--
--
 ## Setting Up the Backend
 - python -m venv venv
 - pip install pipenv
